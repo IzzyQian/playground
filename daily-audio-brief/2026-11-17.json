@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-17",
+  "day_label": "Tuesday, November 17",
+  "summary": "A free morning, then nonstop from 12:45 until 10 tonight.",
+  "headlines": [
+    {"title": "Vance: Iran campaign won't become a two-year commitment", "detail": "Iran's Revolutionary Guard says it hit a U.S. radar in Bahrain and that mines struck a supertanker and a gas carrier in the Strait of Hormuz.", "source": "Newsquawk", "url": "https://www.newsquawk.com/headlines/newsquawk-daily-us-opening-news---17th-november-2026"},
+    {"title": "Trump in the Philippines for trade talks", "detail": "He also says he'd meet Putin one-on-one if a meeting can be arranged.", "source": "Newsquawk", "url": "https://www.newsquawk.com/headlines/newsquawk-daily-us-opening-news---17th-november-2026"},
+    {"title": "Judge sets aside new limits on foreign students", "detail": "A federal judge blocked the administration's new restrictions on admitting foreign students.", "source": "Allison Gill", "url": "https://www.muellershewrote.com/p/headlines-for-november-17-2026"},
+    {"title": "Van Hollen backs Jeffries, rules out 2028 run", "detail": "The Maryland senator told Politico he supports Jeffries for Speaker.", "source": "Newsquawk", "url": "https://www.newsquawk.com/headlines/newsquawk-daily-us-opening-news---17th-november-2026"},
+    {"title": "Outages at major banks and United Airlines", "detail": "Customers report bank outages; United reports widespread disruptions.", "source": "inkl", "url": "https://www.inkl.com/news/latest-news-bulletin-november-17th-2026-morning"},
+    {"title": "Bomb found at Illinois ethanol plant", "detail": "A suspect is in custody after a brief evacuation; the FBI is investigating.", "source": "Daily Digest", "url": "https://dailydigest.com/archive/2026/11/17/"}
+  ],
+  "events": [
+    {"start": "12:45 PM", "end": "2:45 PM", "title": "COMPLIT 277 · Diaspora & Trauma", "where": "CGIS South S003"},
+    {"start": "3:00 PM", "end": "3:45 PM", "title": "Voice lesson", "where": ""},
+    {"start": "4:00 PM", "end": "5:30 PM", "title": "Modern China Lecture: Fei-Hsien Wang", "where": "CGIS Knafel K354"},
+    {"start": "5:00 PM", "end": "9:00 PM", "title": "Sounding", "where": "", "note": "Overlaps the lecture by 30 min"},
+    {"start": "9:00 PM", "end": "10:00 PM", "title": "Business Strategy for the Digital Influencer", "where": "Zoom"}
+  ]
+}
