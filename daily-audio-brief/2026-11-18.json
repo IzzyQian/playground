@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-18",
+  "day_label": "Wednesday, November 18",
+  "summary": "An early start at 9, open from 1 to 3, and an evening that ends at the pub.",
+  "headlines": [
+    {"title": "U.S. and Iran edge closer to renewed war", "detail": "The exchange of fire between the two sides is increasing.", "source": "Euronews", "url": "https://www.euronews.com/video/2026/11/18/latest-news-bulletin-november-18th-2026-morning"},
+    {"title": "Qatar warns of 'grave danger' in the Gulf", "detail": "It announces new talks with Iran.", "source": "Euronews", "url": "https://www.euronews.com/video/2026/11/18/latest-news-bulletin-november-18th-2026-morning"},
+    {"title": "Ukrainian drones hit the Kerch Bridge", "detail": "The bridge links Crimea to Russia.", "source": "Euronews", "url": "https://www.euronews.com/video/2026/11/18/latest-news-bulletin-november-18th-2026-morning"},
+    {"title": "Classified U.S. security network reportedly down", "detail": "A highly classified national security communications network went down.", "source": "Allison Gill", "url": "https://www.muellershewrote.com/p/headlines-for-november-18-2026"},
+    {"title": "Court blocks Pentagon from expelling transgender troops", "detail": "The ruling halts the expulsions for now.", "source": "Allison Gill", "url": "https://www.muellershewrote.com/p/headlines-for-november-18-2026"}
+  ],
+  "events": [
+    {"start": "9:00 AM", "end": "10:15 AM", "title": "MLD201 · Exercising Leadership", "where": "Littauer 150"},
+    {"start": "12:00 PM", "end": "1:00 PM", "title": "MLD small group", "where": ""},
+    {"start": "3:00 PM", "end": "4:30 PM", "title": "IGA550 · Geopolitics of AI", "where": "Wexner 436", "note": "Marked skippable"},
+    {"start": "4:30 PM", "end": "6:30 PM", "title": "Choir rehearsal (RCS)", "where": "Sanders Theatre"},
+    {"start": "5:00 PM", "end": "8:00 PM", "title": "IGA 550 class social", "where": "Grafton Street Pub, 59 JFK St", "note": "Overlaps choir by 1½ hours"}
+  ]
+}
