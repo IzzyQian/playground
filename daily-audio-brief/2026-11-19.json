@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-19",
+  "day_label": "Thursday, November 19",
+  "summary": "Full and varied from 9:45, with a short break before Music Night.",
+  "headlines": [
+    {"title": "Trump in China for Shenzhen summit", "detail": "Ukraine, Iran and a possible nuclear agreement are expected on the agenda.", "source": "10 Things", "url": "https://www.10things.news/p/10-things-global-news-19th-november-cbc"},
+    {"title": "U.S. escorts restore tanker traffic amid Iran blockade", "detail": "Trump has halted proposed direct talks; Tehran wants sanctions relief and frozen funds first.", "source": "10 Things", "url": "https://www.10things.news/p/10-things-global-news-19th-november-cbc"},
+    {"title": "EU proposes €45 billion loan for Ukraine", "detail": "The loan would support Ukraine's war effort and economy.", "source": "WNG", "url": "https://wng.org/podcasts/thursday-morning-news-november-19-2026-1795033248"},
+    {"title": "Mary Peltola wins Alaska Senate race", "detail": "The Democrat takes the U.S. Senate seat.", "source": "Yahoo News", "url": "https://www.yahoo.com/news/politics/articles/catching-eye-news-roundup-nov-080049951.html"},
+    {"title": "Van Hollen challenges Schumer for party leader", "detail": "Senate Democrats plan to vote on December 1.", "source": "Yahoo News", "url": "https://www.yahoo.com/news/politics/articles/catching-eye-news-roundup-nov-080049951.html"}
+  ],
+  "events": [
+    {"start": "9:45 AM", "end": "11:15 AM", "title": "Gaga movement class", "where": "Harvard Dance Center"},
+    {"start": "12:00 PM", "end": "1:15 PM", "title": "Lynette Ong: Outsourcing Surveillance", "where": "CGIS South S020, Belfer Case Study Room"},
+    {"start": "2:00 PM", "end": "3:30 PM", "title": "Workshop for Fairbank", "where": ""},
+    {"start": "3:30 PM", "end": "4:30 PM", "title": "Dog walk with Amber", "where": ""},
+    {"start": "4:00 PM", "end": "5:00 PM", "title": "Min Jin Lee: American Hagwon", "where": "Knafel Center, 10 Garden St (or Zoom)", "note": "Overlaps the dog walk by 30 min"},
+    {"start": "6:30 PM", "end": "9:30 PM", "title": "MLD201 Music Night #2", "where": "", "note": "Required; time still to be confirmed"}
+  ]
+}
