@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-20",
+  "day_label": "Friday, November 20",
+  "summary": "An 8:30 start, open from 10:15 to 3, then a concert night until 11:30.",
+  "headlines": [
+    {"title": "Xi, Trump and Putin issue 'Declaration toward Peace'", "detail": "The three met in Shenzhen; early reviews say the summit delivered little of substance.", "source": "SBS News", "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008855642"},
+    {"title": "Putin invites European leaders, rejects ceasefire", "detail": "He invited them to Moscow but turned down a ceasefire in Ukraine.", "source": "Anadolu Agency", "url": "https://aa.com.tr/en/world/morning-briefing-nov-20-2026/4131638"},
+    {"title": "Stocks slide despite Anthropic's debut", "detail": "Wall Street's three major indexes each fell more than 2%; the KOSPI opened down over 4%.", "source": "SBS News", "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008855642"},
+    {"title": "UN court rules Myanmar committed Rohingya genocide", "detail": "The ruling concerns the 2017 campaign against Rohingya Muslims.", "source": "Anadolu Agency", "url": "https://aa.com.tr/en/world/morning-briefing-nov-20-2026/4131638"},
+    {"title": "Houthi missile damages Riyadh's tallest tower", "detail": "Separately, Trump reportedly delayed an Iran strike decision until 2027.", "source": "Anadolu Agency", "url": "https://aa.com.tr/en/world/morning-briefing-nov-20-2026/4131638"}
+  ],
+  "events": [
+    {"start": "8:30 AM", "end": "10:15 AM", "title": "Narrative writing seminar", "where": "Lippmann House basement"},
+    {"start": "3:00 PM", "end": "4:00 PM", "title": "Boxing practice", "where": "", "note": "Marked skippable"},
+    {"start": "5:00 PM", "end": "6:00 PM", "title": "Hip Hop Dance", "where": "", "note": "Skippable, but it's the last class"},
+    {"start": "8:00 PM", "end": "10:00 PM", "title": "Harvard-Yale Concert", "where": "Sanders Theatre"},
+    {"start": "10:00 PM", "end": "11:30 PM", "title": "Reception with the Yale singers", "where": "Cambridge Queen's Head"}
+  ]
+}
