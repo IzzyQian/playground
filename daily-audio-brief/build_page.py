@@ -15,7 +15,9 @@ TEMPLATE = open(__file__.replace("build_page.py", "page_template.html")).read()
 def build(data: dict, mp3_path: str) -> str:
     audio = base64.b64encode(open(mp3_path, "rb").read()).decode()
     headlines = "\n".join(
-        f'<li><p class="h-title">{escape(h["title"])}</p>'
+        f'<li>'
+        + (f'<p class="h-topic">{escape(h["topic"])}</p>' if h.get("topic") else "")
+        + f'<p class="h-title">{escape(h["title"])}</p>'
         f'<p class="h-detail">{escape(h["detail"])} '
         f'<a href="{escape(h["url"])}" target="_blank" rel="noopener">{escape(h["source"])}</a></p></li>'
         for h in data["headlines"]
