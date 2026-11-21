@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-21",
+  "day_label": "Saturday, November 21",
+  "summary": "A clear calendar. The whole day is yours.",
+  "headlines": [
+    {"topic": "Top story", "title": "Trump threatens Iran over rumored 'dirty bomb' plot", "detail": "Iran's foreign minister says the U.S. naval blockade must end before oil exports can resume.", "source": "Anadolu Agency", "url": "https://aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676"},
+    {"topic": "Top story", "title": "Denmark links foiled assassination plot to Russia", "detail": "Prime Minister Mette Frederiksen tied the plot on Danish soil to Russian intelligence.", "source": "Anadolu Agency", "url": "https://aa.com.tr/en/world/morning-briefing-nov-21-2026/4132676"},
+    {"topic": "China", "title": "APEC in Shenzhen ends with nothing new on Taiwan", "detail": "Taiwan votes in local elections Nov. 28; Beijing reportedly subsidizes travel home for Taiwanese businesspeople to vote.", "source": "AEI", "url": "https://www.aei.org/commentary/china-taiwan-update-november-20-2026/"},
+    {"topic": "China", "title": "ADB: Taiwan leads Asia's growth, China lags", "detail": "Taiwan is projected at about 11% growth on AI chip demand; mainland China near the bottom at about 4.6%.", "source": "Storm Media", "url": "https://world.storm.mg/articles/1178423"},
+    {"topic": "AI", "title": "OpenAI's GPT-6.2 Astra hits 'high' self-improvement risk level", "detail": "Released this week alongside Sol; per OpenAI's system card, it's the first OpenAI model to reach that threshold.", "source": "The Neuron", "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/"},
+    {"topic": "AI", "title": "Trump threatens tax on overseas AI data centers", "detail": "He floated a heavy tax on U.S. firms building data centers abroad; details are still thin.", "source": "Fellow Press", "url": "https://www.fellowpress.com/us-news-today-saturday-november-21-2026-latest-headlines-and-breaking-news/"},
+    {"topic": "Culture", "title": "Venice Biennale closes with long-delayed prizes", "detail": "The awards ceremony, postponed since May after the jury resigned, takes place on the Nov. 22 closing day.", "source": "Wikipedia", "url": "https://en.wikipedia.org/wiki/61st_Venice_Biennale"},
+    {"topic": "Culture", "title": "Nan Goldin opens at the Hayward Gallery", "detail": "'You Never Did Anything Wrong' runs Nov. 24 to March 14 in London.", "source": "Ocula", "url": "https://ocula.com/magazine/spotlight/exhibitions-not-to-miss-in-november-2026/"}
+  ],
+  "events": []
+}
