@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-22",
+  "day_label": "Sunday, November 22",
+  "summary": "A slow morning, then the Nieman potluck from 2:15.",
+  "headlines": [
+    {"topic": "Top story", "title": "Iran escalates Gulf attacks as U.S. weighs next move", "detail": "At least 25 tankers hit near Hormuz in a week, per Al Jazeera; CBS reports the U.S. and Israel are weighing a new assault even as Trump talks of a permanent deal.", "source": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf"},
+    {"topic": "Top story", "title": "ICE arrests two boarding a flight at Sea-Tac", "detail": "Officers detained the passengers on a jet bridge before an Alaska Airlines departure.", "source": "CBS News", "url": "https://cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle"},
+    {"topic": "China", "title": "U.S. and China to cut tariffs on ~$30B of goods", "detail": "The post-summit deal eases trade both ways; some analysts call the truce fragile. CNBC looks at Beijing's summit diplomacy.", "source": "CNBC", "url": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html"},
+    {"topic": "China", "title": "Chinese Princeton Ph.D. student detained by ICE", "detail": "The student was held at Reagan National Airport after an academic conference.", "source": "South China Morning Post", "url": "https://www.scmp.com/news/china"},
+    {"topic": "AI", "title": "Cursor weighs dropping Chinese AI models", "detail": "The SpaceX-owned coding tool told lawmakers it may phase out PRC-built open-weight models over geopolitical risk.", "source": "CNBC", "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html"},
+    {"topic": "AI", "title": "U.S. moves to block China's remote access to Nvidia chips", "detail": "A new Commerce rule targets access through overseas data centers; Bessent says H200 sales policy is unchanged.", "source": "CNBC", "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html"},
+    {"topic": "Culture", "title": "Christie's caps auction week at $145.9M", "detail": "A $32.9M Basquiat led a softer sale, a day after Sotheby's set a Van Gogh record.", "source": "ARTnews", "url": "https://artnews.com/art-news/market/christies-21st-century-art-sale-november-2026-1234806916"},
+    {"topic": "Culture", "title": "Lotus L. Kang wins the Sobey Art Award", "detail": "Canada's top contemporary art prize goes to the Korean-Canadian artist.", "source": "ARTnews", "url": "https://www.artnews.com/"}
+  ],
+  "events": [
+    {"start": "2:15 PM", "end": "6:00 PM", "title": "Nieman potluck", "where": ""},
+    {"start": "3:00 PM", "end": "4:00 PM", "title": "Boxing practice", "where": "", "note": "Skippable; overlaps the potluck"}
+  ]
+}
