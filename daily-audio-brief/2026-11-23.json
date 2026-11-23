@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-23",
+  "day_label": "Monday, November 23",
+  "summary": "Class at 9, open from 10:15 to 3, then choir until 6:30.",
+  "headlines": [
+    {"topic": "Top story", "title": "Iran vows to break U.S. blockade; Trump 'not rushing'", "detail": "Trump told Israeli TV his next move could wait until 2027.", "source": "CBS News", "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"},
+    {"topic": "Top story", "title": "AI rout pushes S&P 500 and Dow into correction", "detail": "The Nasdaq erased its 2026 gains in tech's worst week since 2020, the same week as Anthropic's IPO.", "source": "CNBC", "url": "https://www.cnbc.com/latest/"},
+    {"topic": "China", "title": "CNPC executive Xie Jun under graft investigation", "detail": "The state oil giant's deputy general manager was detained days after a company forum in Shanghai.", "source": "South China Morning Post", "url": "https://www.scmp.com/news/china/politics/article/3375381/chinas-shale-gas-star-xie-jun-under-investigation-corruption-authorities"},
+    {"topic": "China", "title": "Beijing objects to U.S. curbs on Chinese telecoms", "detail": "The FCC barred China's three largest carriers from obtaining U.S. phone numbers directly.", "source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-objects-to-us-curbs-on-telecoms-access-to-phone-numbers"},
+    {"topic": "AI", "title": "OpenAI tightens control over model resellers", "detail": "Gateways and routers offering third-party access now need OpenAI's review and approval.", "source": "Semafor", "url": "https://www.semafor.com/article/11/20/2026/openai-tightens-grip-on-model-resellers"},
+    {"topic": "AI", "title": "House panel urges banning Chinese AI models in federal systems", "detail": "The report recommends widening the DeepSeek ban to all PRC-developed models.", "source": "CNBC", "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html"},
+    {"topic": "Pop culture", "title": "Kristen Doute launches video-first podcast 'Run It Back'", "detail": "The weekly sports and pop culture show comes from the network PODGO.", "source": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/tv/tv-news/kristen-doute-sports-pop-culture-podcast-run-it-back-podgo-1236759725/"},
+    {"topic": "Pop culture", "title": "Robert Pattinson is the next James Bond", "detail": "NPR's Glen Weldon argues the actor might have suited a Bond villain better.", "source": "NPR", "url": "https://www.npr.org/people/137817249/glen-weldon"}
+  ],
+  "events": [
+    {"start": "9:00 AM", "end": "10:15 AM", "title": "MLD201 · Exercising Leadership", "where": "Littauer 150"},
+    {"start": "3:00 PM", "end": "4:30 PM", "title": "IGA550 · Geopolitics of AI", "where": "Wexner 436", "note": "Marked skippable"},
+    {"start": "4:30 PM", "end": "6:30 PM", "title": "Choir rehearsal (RCS)", "where": "Lowell Lecture Hall"}
+  ]
+}
