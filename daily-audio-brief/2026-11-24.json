@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-24",
+  "day_label": "Tuesday, November 24",
+  "summary": "A writing day, with Karen, class and Martha Minow packed into the middle.",
+  "headlines": [
+    {"topic": "Top story", "title": "Two tankers catch fire after hitting mines in Hormuz", "detail": "Iran's army reported the incident; Al Jazeera is following it live.", "source": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines"},
+    {"topic": "Top story", "title": "Jensen Huang returns as Nvidia CEO; stock soars", "detail": "The board's unanimous vote sent shares up more than 30% Monday and revived the AI trade, though governance questions linger.", "source": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo"},
+    {"topic": "China", "title": "Shanghai party chief Chen Jining under investigation", "detail": "The Politburo member is among the most senior officials caught in the anti-graft campaign.", "source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-24/china-probes-politburo-member-and-shanghai-chief-chen-jining"},
+    {"topic": "China", "title": "Pakistani astronaut to fly on Shenzhou-24", "detail": "It's the first foreign astronaut in China's crewed program; launch is Wednesday morning.", "source": "South China Morning Post", "url": "https://scmp.com/news/china/science/article/3375536/pakistani-astronaut-joins-shenzhou-24-crew-heading-chinas-tiangong-space-station"},
+    {"topic": "AI", "title": "Anthropic launches Claude Ship coding agents", "detail": "The agents review code, fix problems and approve routine changes; rolling out in beta.", "source": "TechCrunch", "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"},
+    {"topic": "AI", "title": "Oregon and Virginia sue SpaceX over Grok deepfakes", "detail": "The first state suits allege the image generator was marketed as safe despite producing deepfake porn.", "source": "CNBC", "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html"},
+    {"topic": "Pop culture", "title": "Hila Klein exits the H3 Podcast", "detail": "She leaves a month after co-host and husband Ethan Klein's affair came to light.", "source": "Variety", "url": "https://variety.com/2026/digital/news/hila-klein-exits-h3-podcast-ethan-klein-affair-1236956758"},
+    {"topic": "Pop culture", "title": "D'Angelo's 'GTA VI' song is out", "detail": "'Kamikaze' arrives with a 23-track deluxe soundtrack featuring Travis Scott and 21 Savage.", "source": "Rolling Stone", "url": "https://www.rollingstone.com/music/music-news/grand-theft-auto-vi-the-album-deluxe-edition-album-release-1235662514/"}
+  ],
+  "events": [
+    {"start": "9:00 AM", "end": "10:00 AM", "title": "Workshop piece: scene list + ending sentence", "where": ""},
+    {"start": "10:00 AM", "end": "11:15 AM", "title": "Workshop piece: write", "where": ""},
+    {"start": "11:30 AM", "end": "12:30 PM", "title": "Coffee with Karen (COMPLIT 277)", "where": ""},
+    {"start": "12:45 PM", "end": "2:00 PM", "title": "COMPLIT 277 · Diaspora & Trauma", "where": "Zoom", "note": "Leave at 2 for Minow (class runs to 2:45)"},
+    {"start": "2:00 PM", "end": "2:40 PM", "title": "Martha Minow: Nieman seminar prep", "where": "Her office"},
+    {"start": "3:00 PM", "end": "3:45 PM", "title": "Voice lesson", "where": ""},
+    {"start": "4:00 PM", "end": "8:00 PM", "title": "Workshop piece: afternoon writing block", "where": ""}
+  ]
+}
