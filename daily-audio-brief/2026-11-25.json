@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-25",
+  "day_label": "Wednesday, November 25",
+  "summary": "A writing day: draft in the morning, revise in the afternoon.",
+  "headlines": [
+    {"topic": "Top story", "title": "Kilmar Abrego Garcia leaves the U.S. for Spain", "detail": "He left voluntarily after nearly two years of legal battles over his deportation.", "source": "NPR", "url": "https://www.npr.org/2026/11/25/nx-s1-6047115/morning-news-brief"},
+    {"topic": "Top story", "title": "Coalition strikes Yemen's Hodeidah port", "detail": "The Saudi-led coalition hit the Houthi-held port; the Houthis threaten Saudi ports in return.", "source": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order"},
+    {"topic": "China", "title": "U.S. readies tariff hike on China and EU goods", "detail": "It comes a week after the two sides agreed to cut tariffs on about $30B of goods.", "source": "Bloomberg", "url": "https://bloomberg.com/news/articles/2026-11-24/us-readies-tariff-hike-on-china-eu-goods-as-soon-as-tuesday"},
+    {"topic": "China", "title": "Huawei convicted in New York", "detail": "A federal jury found the company guilty on multiple criminal charges after a three-month trial.", "source": "South China Morning Post", "url": "https://www.scmp.com/news/china"},
+    {"topic": "AI", "title": "Lab staff fear unreleased models are too risky", "detail": "More than two dozen sources say some at Anthropic and OpenAI doubt their top internal models can be released safely.", "source": "Axios", "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks"},
+    {"topic": "AI", "title": "Lawmakers press on chips after Huang's return", "detail": "Members of both parties want national security answers and tighter controls on advanced AI chips.", "source": "NPR", "url": "https://www.npr.org/2026/11/25/nx-s1-6052467/lawmakers-seek-answers-on-the-national-security-as-nvidia-ceo-returns"},
+    {"topic": "Pop culture", "title": "Netflix buys Radford Studio lot for $380M", "detail": "The streamer is adding a historic LA production lot.", "source": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/business/business-news/netflix-buys-radford-studio-lot-for-380-million-1236762445/"},
+    {"topic": "Pop culture", "title": "'KPop Demon Hunters' singer Rei Ami to host ABC show", "detail": "The voice of Zoey will host the music competition 'Who's In The Band?'", "source": "Deadline", "url": "https://deadline.com/2026/11/kpop-demon-hunters-rei-ami-host-abc-whos-in-the-band-1237232706/"}
+  ],
+  "events": [
+    {"start": "9:00 AM", "end": "12:00 PM", "title": "Workshop piece: full draft", "where": ""},
+    {"start": "1:00 PM", "end": "4:30 PM", "title": "Workshop piece: revise", "where": ""}
+  ]
+}
