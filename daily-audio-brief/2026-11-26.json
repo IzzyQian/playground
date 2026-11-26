@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-26",
+  "day_label": "Thursday, November 26 · Thanksgiving",
+  "summary": "Edit in the morning, seminar at 3, then Thanksgiving at Rowan's.",
+  "headlines": [
+    {"topic": "Top story", "title": "Israel says it's ready to strike Iran without the U.S.", "detail": "Iran's Revolutionary Guard says two more tankers hit mines near Oman.", "source": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh"},
+    {"topic": "Top story", "title": "Judge blocks review of ABC's broadcast licenses", "detail": "A federal judge halted the administration's move to review every local license ABC holds.", "source": "NPR", "url": "https://www.npr.org/2026/11/26/nx-s1-6044262/morning-news-brief"},
+    {"topic": "China", "title": "New U.S. tariffs: China rate to 20%, possibly 40%", "detail": "Beijing calls it political maneuvering and urges both sides to keep the truce.", "source": "Bloomberg", "url": "https://bloomberg.com/news/articles/2026-11-25/us-targets-china-eu-with-new-tariffs-after-overcapacity-probe"},
+    {"topic": "China", "title": "Shenzhou-24 docks with first foreign astronaut aboard", "detail": "Pakistan's Muhammad Zeeshan Ali reached Tiangong for a roughly weeklong stay.", "source": "South China Morning Post", "url": "https://www.scmp.com/news/china/science/article/3375677/chinas-shenzhou-24-spacecraft-lifts-first-foreign-astronaut-board"},
+    {"topic": "AI", "title": "OpenAI begins merging ChatGPT's Chat and Work modes", "detail": "Rolling out to some Pro users first; heavy users may hit limits sooner.", "source": "TechCrunch", "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"},
+    {"topic": "AI", "title": "Democrats demand new AI restrictions", "detail": "The push follows reports of safety fears inside OpenAI and Anthropic; Sanders calls for a pause.", "source": "Axios", "url": "https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios"},
+    {"topic": "Pop culture", "title": "The Chicks join AI music lawsuit against Suno", "detail": "Willie Colón and Sam Moore also signed on; Tidal says it will ban AI-generated music.", "source": "Billboard", "url": "https://billboard.com/pro/the-chicks-willie-colon-join-ai-music-lawsuit-against-suno"},
+    {"topic": "Pop culture", "title": "Duran Duran guitarist Andy Taylor dies at 65", "detail": "The guitarist was a member of the band's classic lineup.", "source": "Variety", "url": "https://variety.com/v/music/"}
+  ],
+  "events": [
+    {"start": "9:30 AM", "end": "1:00 PM", "title": "Workshop piece: tighten", "where": ""},
+    {"start": "3:00 PM", "end": "4:30 PM", "title": "Nieman Seminars", "where": ""},
+    {"start": "4:00 PM", "end": "7:00 PM", "title": "Thanksgiving potluck", "where": "Rowan's", "note": "Overlaps seminar by 30 min; bringing braised tofu"}
+  ]
+}
